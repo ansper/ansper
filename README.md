@@ -22,9 +22,10 @@ beginner front-end developer
 </p>
           
 ### Contact me:             
-<p align="left">
+<p align="center">
 <a href="https://discord.com/users/692331574854942751" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/ansper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+</p>
 
 
 ### Badges
