@@ -24,8 +24,15 @@ beginner front-end developer
 ### Contact me:             
 <p align="left">
 <a href="https://discord.com/users/692331574854942751" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/ansper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/ansper"><img src="https://github-readme-stats.vercel.app/api?username=ansper&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="ansper's GitHub stats" /></a><a href="https://github.com/ansper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansper&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="https://vk.com/ansperr" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/13977/vk-com" width="32" height="32" /></a>
-</p>
+<a href="https://www.github.com/ansper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ansper"><img src="https://github-readme-stats.vercel.app/api?username=ansper&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="ansper's GitHub stats" /></a>
+
+<a href="https://github.com/ansper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansper&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
