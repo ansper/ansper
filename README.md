@@ -32,6 +32,6 @@ beginner front-end developer
 
 <a href="http://www.github.com/ansper"><img src="https://github-readme-stats.vercel.app/api?username=ansper&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="ansper's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansper&hide_progress=true)](https://github.com/ansper/github-readme-stats)me-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansper&hide_progress=true)](https://github.com/ansper/github-readme-stats)
 
 
