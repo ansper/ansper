@@ -32,6 +32,6 @@ beginner front-end developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansper&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansper&langs_count=8)](https://github.com/ansper/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansper&langs_count=8&color=black)](https://github.com/ansper/github-readme-stats)
 
 
