@@ -23,6 +23,7 @@ beginner front-end developer
 ### Contact me:             
 <p align="left">
 <a href="https://discord.com/users/692331574854942751" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AnspeR0)  
 </p>
 
 
