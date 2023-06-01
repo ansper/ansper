@@ -1,11 +1,7 @@
 Hi 👋 My name is Andrey
 =======================
-
-3rd year student
+Front-end developer
 ----------------
-
-beginner front-end developer
-
 
 ### Skills
 <p align="left">
